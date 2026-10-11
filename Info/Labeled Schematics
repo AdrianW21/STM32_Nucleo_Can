@@ -1,0 +1,99 @@
+
+                    ┌─────────────────────┐
+                    │      LAPTOP         │
+                    │ VS Code / GitHub    │
+                    └───────┬───────┬─────┘
+                            │       │
+                         USB│       │USB
+                            │       │
+                            ▼       ▼
+
+                  ┌─────────────────────┐
+                  │    NUCLEO-F439ZI    │
+                  │                     │
+                  │ CAN1_TX  PD1        │
+                  │ CAN1_RX  PD0        │
+                  │                     │
+                  │ CAN2_TX  PB13       │
+                  │ CAN2_RX  PB12       │
+                  │                     │
+                  │ UART_TX  PD8        │
+                  │ UART_RX  PD9        │
+                  └──┬─────────────┬────┘
+                     │             │
+                     │UART         │
+                     │             │
+                     ▼             ▼
+
+              ┌──────────────┐
+              │   ESP32-S3   │
+              │              │
+              │ RX <--- PD8  │
+              │ TX ---> PD9  │
+              │ GND <-> GND  │
+              │ WiFi / MQTT  │
+              └──────────────┘
+
+
+                 HS-CAN NETWORK
+                 ==============
+
+PD1 (CAN1_TX)
+     │
+     ▼
+┌──────────────┐
+│ TJA1051 #1   │
+│ HS-CAN       │
+├──────────────┤
+│ TXD          │◄── PD1
+│ RXD          │──► PD0
+│ CAN_H        │──► OBD Pin 6
+│ CAN_L        │──► OBD Pin 14
+│ GND          │──► OBD Pin 4
+└──────────────┘
+
+
+                 MS-CAN NETWORK
+                 ==============
+
+PB13 (CAN2_TX)
+      │
+      ▼
+┌──────────────┐
+│ TJA1051 #2   │
+│ MS-CAN       │
+├──────────────┤
+│ TXD          │◄── PB13
+│ RXD          │──► PB12
+│ CAN_H        │──► OBD Pin 3
+│ CAN_L        │──► OBD Pin 11
+│ GND          │──► OBD Pin 4
+└──────────────┘
+
+
+
+ _________________________
+|  1  2  3  4  5  6  7  8 |
+|  9 10 11 12 13 14 15 16 |
+ -------------------------
+
+Pins Used
+
+Pin 3   MS-CAN_H
+
+Pin 4   Chassis Ground
+
+Pin 5   Signal Ground
+
+Pin 6   HS-CAN_H
+
+Pin11   MS-CAN_L
+
+Pin14   HS-CAN_L
+
+Pin16   +12V Battery
+
+
+
+
+

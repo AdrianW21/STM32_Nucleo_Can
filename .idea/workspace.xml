@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BackendCodeEditorMiscSettings">
+    <option name="/Default/Environment/Hierarchy/GeneratedFilesCacheKey/Timestamp/@EntryValue" value="3" type="long" />
+    <option name="/Default/Housekeeping/FeatureSuggestion/FeatureSuggestionManager/DisabledSuggesters/=SwitchToGoToActionSuggester/@EntryIndexedValue" value="true" type="bool" />
+    <option name="/Default/Housekeeping/GlobalSettingsUpgraded/IsUpgraded/@EntryValue" value="true" type="bool" />
+  </component>
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
+  <component name="CMakeProjectFlavorService">
+    <option name="flavorId" value="CMakePlainProjectFlavor" />
+  </component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="false" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7927acff-dbae-4817-8cde-2c2be8c744e3" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mxproject" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakePresets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Core/Inc/can_bus.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Core/Inc/main.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Core/Inc/stm32h7xx_hal_conf.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Core/Inc/stm32h7xx_it.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Core/Inc/stm32h7xx_nucleo_conf.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Core/Src/can_bus.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Core/Src/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Core/Src/stm32h7xx_hal_msp.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Core/Src/stm32h7xx_it.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Core/Src/syscalls.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Core/Src/sysmem.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Core/Src/system_stm32h7xx.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drivers/BSP/STM32H7xx_Nucleo/stm32h7xx_nucleo.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drivers/BSP/STM32H7xx_Nucleo/stm32h7xx_nucleo.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drivers/BSP/STM32H7xx_Nucleo/stm32h7xx_nucleo_errno.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drivers/CMSIS/Device/ST/STM32H7xx/Include/stm32h753xx.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drivers/CMSIS/Device/ST/STM32H7xx/Include/stm32h7xx.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drivers/CMSIS/Device/ST/STM32H7xx/Include/system_stm32h7xx.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drivers/CMSIS/Device/ST/STM32H7xx/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drivers/CMSIS/Include/cachel1_armv7.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drivers/CMSIS/Include/cmsis_armcc.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drivers/CMSIS/Include/cmsis_armclang.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drivers/CMSIS/Include/cmsis_armclang_ltm.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drivers/CMSIS/Include/cmsis_compiler.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drivers/CMSIS/Include/cmsis_gcc.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drivers/CMSIS/Include/cmsis_iccarm.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drivers/CMSIS/Include/cmsis_version.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drivers/CMSIS/Include/core_armv81mml.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drivers/CMSIS/Include/core_armv8mbl.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drivers/CMSIS/Include/core_armv8mml.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drivers/CMSIS/Include/core_cm0.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drivers/CMSIS/Include/core_cm0plus.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drivers/CMSIS/Include/core_cm1.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drivers/CMSIS/Include/core_cm23.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drivers/CMSIS/Include/core_cm3.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drivers/CMSIS/Include/core_cm33.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drivers/CMSIS/Include/core_cm35p.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drivers/CMSIS/Include/core_cm4.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drivers/CMSIS/Include/core_cm55.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drivers/CMSIS/Include/core_cm7.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drivers/CMSIS/Include/core_cm85.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drivers/CMSIS/Include/core_sc000.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drivers/CMSIS/Include/core_sc300.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drivers/CMSIS/Include/core_starmc1.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drivers/CMSIS/Include/mpu_armv7.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drivers/CMSIS/Include/mpu_armv8.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drivers/CMSIS/Include/pac_armv81.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drivers/CMSIS/Include/pmu_armv8.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drivers/CMSIS/Include/tz_context.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drivers/CMSIS/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drivers/STM32H7xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_cortex.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_def.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_dma.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_dma_ex.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_exti.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_fdcan.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_flash.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_flash_ex.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_gpio.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_gpio_ex.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_hsem.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_i2c.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_i2c_ex.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_mdma.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_pwr.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_pwr_ex.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_rcc.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_rcc_ex.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_tim.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_tim_ex.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_uart.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_uart_ex.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_usart.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_usart_ex.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_ll_bus.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_ll_cortex.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_ll_crs.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_ll_dma.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_ll_dmamux.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_ll_exti.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_ll_gpio.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_ll_hsem.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_ll_pwr.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_ll_rcc.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_ll_system.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_ll_utils.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drivers/STM32H7xx_HAL_Driver/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_cortex.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_dma.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_dma_ex.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_exti.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_fdcan.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_flash.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_flash_ex.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_gpio.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_hsem.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c_ex.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_mdma.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr_ex.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_tim.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_tim_ex.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart_ex.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_usart.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_usart_ex.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/STM32H753xx_FLASH.ld" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake/gcc-arm-none-eabi.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake/starm-clang.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake/stm32cubemx/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/startup_stm32h753xx.s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stm32_Ford_Car.ioc" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="EmbeddedSvdWindowState">
+    <option name="columnWidths">
+      <list>
+        <option value="212" />
+        <option value="92" />
+        <option value="1480" />
+      </list>
+    </option>
+    <option name="columnOrder">
+      <list>
+        <option value="Name" />
+        <option value="Value" />
+        <option value="Description" />
+      </list>
+    </option>
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug - Debug" />
+  <component name="Git.Rebase.Settings">
+    <option name="NEW_BASE" value="main" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="MIXED" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Core/Src/can_bus.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="rw7Sg2SN" />
+  </component>
+  <component name="Non-shared Debug Profiles">
+    <debug-profiles>
+      <debug-profile>
+        <option name="id" value="9aa33a4e-52b6-4f82-831d-95eec6540aa1" />
+        <option name="type" value="stlink" />
+        <option name="name" value="ST-LINK" />
+        <settings>
+          <gdb>
+            <option name="persistentSession" value="false" />
+          </gdb>
+          <server>
+            <option name="executable" value="C:\ST\STM32CubeCLT_1.22.0\STLink-gdb-server\bin\ST-LINK_gdbserver.exe" />
+            <option name="stm32CubeProgrammerPath" value="C:\ST\STM32CubeCLT_1.22.0\STM32CubeProgrammer\bin" />
+          </server>
+        </settings>
+      </debug-profile>
+    </debug-profiles>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2026" />
+    <option name="minorVersion" value="2.3" />
+    <option name="productBranch" value="Classic" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3K3G1b568WwcltIeMvmnj41CHaR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "CMake Application.stm32_Ford_Car.executor": "Run",
+    "CidrDebugProfileConversion": "true",
+    "Git.Working.Tree.Tab.closed.by.user": "opened",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.RadMigrateCodeStyle": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "RunOnceActivity.stm32.stlink.auto.setup": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "master",
+    "git.auto.fetch.suggestion.counter": "1",
+    "ignore.virus.scanning.warn.message": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.selected.package.jshint": "",
+    "nodejs_package_manager_path": "npm",
+    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\adria\CLionProjects\STM32\stm32_Ford_Car\Core\Src" />
+      <recent name="C:\Users\adria\CLionProjects\STM32\stm32_Ford_Car\Core\Inc" />
+    </key>
+  </component>
+  <component name="SelectedDebugProfileService">{
+  &quot;profileIdByStamp&quot;: [],
+  &quot;modificationCount&quot;: 6
+}</component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7927acff-dbae-4817-8cde-2c2be8c744e3" name="Changes" comment="" />
+      <created>1790778630900</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1790778630900</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VCPKGProject">
+    <isAutomaticCheckingOnLaunch value="false" />
+    <isAutomaticFoundErrors value="true" />
+    <isAutomaticReloadCMake value="true" />
+    <isAutomaticBootstrapAfterUpdate value="false" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

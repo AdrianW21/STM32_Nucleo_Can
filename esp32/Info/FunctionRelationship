@@ -1,0 +1,20 @@
+loop()
+│
+├── connectWifi()
+│   ├── hasNetworkConfiguration()
+│   └── WiFi.begin()
+│
+├── connectMqtt()
+│   └── mqttClient.connect()
+│
+├── mqttClient.loop()
+│
+└── readStm32Telemetry()
+    │
+    ├── stm32Serial.available()
+    ├── stm32Serial.read()
+    │
+    └── publishTelemetry()
+        │
+        ├── Serial.printf()
+        └── mqttClient.publish()

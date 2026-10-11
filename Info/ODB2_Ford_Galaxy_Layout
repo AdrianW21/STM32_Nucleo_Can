@@ -1,0 +1,29 @@
+                   OBD-II Socket
+Ford Galaxy
+ 
+ _________________________
+|  1  2 [3][4][5][6] 7  8 |
+|  9 10[11]12 13[14]15[16]|
+ -------------------------
+
+Pin 3   MS-CAN High (possible)
+Pin 4   Chassis Ground
+Pin 5   Signal Ground
+Pin 6   HS-CAN High
+
+Pin11   MS-CAN Low (possible)
+Pin14   HS-CAN Low
+Pin16   +12V Battery
+
+Test A
+Pin 16 -> Pin 4
+Expected ≈ 12V
+
+Test B
+Pin 6 -> Pin 14
+Expected ≈ 60Ω (ignition OFF)
+
+Test C
+Pin 3 -> Pin 11
+Expected ≈ 60Ω if MS-CAN exists
+
